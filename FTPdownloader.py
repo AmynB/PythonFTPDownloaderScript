@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 13 17:54:35 2016
 
-@author: Amyn
+@author: abains-src
 """
 
 from ftplib import FTP, error_perm
